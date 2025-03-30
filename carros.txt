@@ -1,0 +1,10 @@
+Renault Kwid 75000 2025 1
+Renault Sandero 60000 2020 1
+Fiat Uno 18500 2010 0
+Nissan Versa 37000 2015 1
+Chevrolet Corsa 7000 1996 0
+Chevrolet s10 30000 2000 1
+Ford Fiesta 26000 2013 0
+Ford Ka 17000 2010 0
+Toyota Corolla 25000 2007 1
+Teste Imagination 20000 2010 1
